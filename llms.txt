@@ -1,0 +1,69 @@
+# Lunis Design
+
+> Premium and free Framer and Webflow website templates for founders, freelancers, agencies, and creatives. Handcrafted designs built for real use cases — launch faster without starting from scratch.
+
+## About
+
+Lunis Design is a template studio founded by Jennifer ([@JennieLunis](https://x.com/JennieLunis)). Templates are available on the Lunis Design website, the Framer Marketplace, the Webflow Marketplace, and Contra. A done-for-you template customization service is also available for buyers who want their template set up professionally.
+
+Templates are designed with SEO structure, CMS support, and mobile responsiveness built in. Framer and Webflow versions are available for most designs.
+
+## Products
+
+### Premium Framer Templates
+
+- **Nexura** (from $99): Framer template for AI tools, SaaS products, and automation platforms. CMS-powered integrations page, product page, structured blog, pricing with comparison table, testimonials, FAQ, and contact. Best for: AI SaaS startups, developer tools, automation platforms. https://lunisdesign.com/framer-templates/nexura
+
+- **Grovia** (from $99): Framer SaaS template for startups, tech companies, and B2B service providers. Features, pricing, case studies, integrations, team, metrics, FAQ, and contact. 26,000+ views on Framer Marketplace. Best for: SaaS startups, B2B companies, consulting firms. https://lunisdesign.com/framer-templates/grovia
+
+- **Avexa** (from $99): Framer template for creative agencies and digital studios. Case studies, services and pricing, process, testimonials, FAQ, and contact. Best for: digital agencies, branding studios, web design studios, creative consultancies. https://lunisdesign.com/framer-templates/avexa
+
+- **Revana** (from $99): Framer template for interior designers, creative studios, and home service businesses. CMS-powered portfolio, services, about, testimonials, light/dark theme, custom cursors. Best for: interior designers, spatial design studios, home renovation companies, architects. https://lunisdesign.com/framer-templates/revana
+
+- **Modio** (from $99): Framer portfolio template for creative agencies and independent designers. Distinctive sidebar layout, case studies, services, team, metrics, awards, testimonials, FAQ. Best for: independent designers, photographers, small creative agencies. https://lunisdesign.com/framer-templates/modio
+
+- **Aluna** (from $99): Framer template for yoga studios, wellness centers, and coaching businesses. Class schedules, instructor profiles, membership pricing, CMS-powered courses, testimonials, FAQ. Best for: yoga studios, pilates studios, wellness centers, health coaches. https://lunisdesign.com/framer-templates/aluna
+
+### Free Framer Templates
+
+- **Zova** (Free): Framer SaaS template with animated style for startups and tech companies. Features, pricing, blog, integrations, team, careers, metrics, testimonials. Best for: SaaS startups, consumer tech products, B2B tech companies. https://lunisdesign.com/framer-templates/zova
+
+- **Altero** (Free): Dark Framer template for agencies and consulting firms. Services, case studies, team, testimonials, and contact. Best for: boutique agencies, strategy consultancies, tech-adjacent service businesses. https://lunisdesign.com/framer-templates/altero
+
+- **Veltrix** (Free): Dark Framer template for marketing agencies and creative studios. Bold typography, case studies, services, process, testimonials, FAQ, and contact. Best for: marketing agencies, branding studios, motion design studios. https://lunisdesign.com/framer-templates/veltrix
+
+- **Velora** (Free): Framer portfolio template for designers, photographers, and creatives. CMS-powered portfolio, services, about, and contact. Best for: graphic designers, UX/UI designers, photographers, illustrators. https://lunisdesign.com/framer-templates/velora
+
+- **Lunera** (Free): Framer landing page template for SaaS and mobile app startups. Features, integrations, pricing, metrics, blog, testimonials, subscribe form, and contact. Best for: early-stage SaaS, mobile apps, micro-SaaS, pre-launch products. https://lunisdesign.com/framer-templates/lunera
+
+- **Cartelle** (Free): Framer ecommerce template for fashion, home decor, and lifestyle brands. Shop, collections, new arrivals, product pages, site search, and cart. Best for: independent fashion brands, home decor shops, DTC lifestyle brands. https://lunisdesign.com/framer-templates/cartelle
+
+### Bundles
+
+- **All Access Bundle** ($249): Every Lunis Design Framer template in one purchase. Includes all premium and free templates. https://lunisdesign.com/framer-templates
+
+### Licensing Add-ons
+
+- Single Site license: included in base price ($99)
+- Single Site + Figma file: $119
+- Unlimited Sites + Figma file: $139
+
+### Webflow Templates
+
+Most templates are also available as Webflow versions. Browse at: https://lunisdesign.com/webflow-templates
+
+## Services
+
+**Done-for-you template customization** starting at $599. Includes brand updates (colors, fonts, logo), content and image replacement, CMS updates (up to 3 new fields), SEO setup, and 2 rounds of revisions. Ideal for founders and agencies who want a professional setup without doing it themselves.
+
+## Key pages
+
+- Homepage: https://lunisdesign.com
+- Framer templates: https://lunisdesign.com/framer-templates
+- Webflow templates: https://lunisdesign.com/webflow-templates
+- Template guides and documentation: https://lunisdesign.com/template-guides
+- Support: https://lunisdesign.com/support
+
+## What makes Lunis Design different
+
+Handcrafted templates with a focus on visual distinctiveness — not component libraries assembled to look like every other template. Each design is built around a real use case with the pages, CMS structure, and layout decisions that type of business actually needs. Available on Framer Marketplace, Webflow Marketplace, and Contra in addition to the Lunis Design store.

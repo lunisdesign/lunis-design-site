@@ -1,6 +1,6 @@
 # Lunis Design
 
-> Premium and free Framer and Webflow website templates for founders, freelancers, agencies, and creatives. Handcrafted designs built for real use cases — launch faster without starting from scratch.
+> Premium and free Framer and Webflow website templates for founders, freelancers, agencies, and creatives. Handcrafted designs built for real use cases — launch faster without starting from scratch. Trusted by 6,500+ founders and freelancers.
 
 ## About
 
@@ -23,6 +23,8 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 - **Modio** (from $99): Framer portfolio template for creative agencies and independent designers. Distinctive sidebar layout, case studies, services, team, metrics, awards, testimonials, FAQ. Best for: independent designers, photographers, small creative agencies. https://lunisdesign.com/framer-templates/modio
 
 - **Aluna** (from $99): Framer template for yoga studios, wellness centers, and coaching businesses. Class schedules, instructor profiles, membership pricing, CMS-powered courses, testimonials, FAQ. Best for: yoga studios, pilates studios, wellness centers, health coaches. https://lunisdesign.com/framer-templates/aluna
+
+- **Vectura** (from $129): Framer template for technology and SaaS companies. Best for: tech startups, SaaS platforms, digital product companies. https://lunisdesign.com/framer-templates/vectura
 
 ### Free Framer Templates
 
@@ -52,18 +54,65 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 
 Most templates are also available as Webflow versions. Browse at: https://lunisdesign.com/webflow-templates
 
-## Services
+## Browse by category
 
-**Done-for-you template customization** starting at $599. Includes brand updates (colors, fonts, logo), content and image replacement, CMS updates (up to 3 new fields), SEO setup, and 2 rounds of revisions. Ideal for founders and agencies who want a professional setup without doing it themselves.
+- Technology and SaaS: https://lunisdesign.com/framer-templates/categories/technology
+- Agency and creative studios: https://lunisdesign.com/framer-templates/categories/agency
+- Portfolio and personal sites: https://lunisdesign.com/framer-templates/categories/portfolio
+- Ecommerce and online stores: https://lunisdesign.com/framer-templates/categories/ecommerce
+- Wellness, yoga, and coaching: https://lunisdesign.com/framer-templates/categories/wellness
+- Interior design and real estate: https://lunisdesign.com/framer-templates/categories/real-estate
+- Free templates: https://lunisdesign.com/framer-templates/categories/free
+- Premium templates: https://lunisdesign.com/framer-templates/categories/paid
+
+## Blog
+
+Design insights, template roundups, and guides for building and shipping websites faster.
+
+- 10 Best SaaS & Tech Framer Templates in 2026: https://lunisdesign.com/blogs/10-best-saas-tech-framer-templates-in-2026
+- Framer vs. Claude Design: Which One Actually Ships a Better Website: https://lunisdesign.com/blogs/framer-vs.-claude-design-which-one-actually-ships-a-better-website
+- The Design Portfolio That Gets You Hired: https://lunisdesign.com/blogs/the-design-portfolio-that-gets-you-hired
+
+Blog index: https://lunisdesign.com/blogs
+
+## Template guides and support
+
+Step-by-step documentation for setting up and customizing Lunis Design templates:
+
+- Getting started: https://lunisdesign.com/template-guides/get-started
+- Access your order: https://lunisdesign.com/template-guides/access-your-order
+- Update styles to match your branding: https://lunisdesign.com/template-guides/update-styles-to-match-your-branding
+- Edit components: https://lunisdesign.com/template-guides/edit-components
+- Edit CMS item fields: https://lunisdesign.com/template-guides/edit-cms-item-fields
+- Edit the CMS page: https://lunisdesign.com/template-guides/edit-the-cms-page
+- Edit slideshow or carousel elements: https://lunisdesign.com/template-guides/edit-slideshow-or-carousel-elements
+- Disable the preloader: https://lunisdesign.com/template-guides/disable-the-preloader
+- Advanced customization: https://lunisdesign.com/template-guides/for-advanced-customization
+
+Troubleshooting:
+
+- Portrait and landscape images in galleries: https://lunisdesign.com/template-guides/can-i-show-portrait-and-landscape-images-together-in-my-gallery
+- Text cut off or overflow: https://lunisdesign.com/template-guides/my-text-get-cut-off-or-overflow-its-container.
+- CMS field not showing: https://lunisdesign.com/template-guides/i-added-a-new-cms-field-but-it-s-not-showing-on-my-page.
+- Form not working: https://lunisdesign.com/template-guides/my-form-is-not-working.
+
+Template-specific guides:
+
+- Revana — add case studies: https://lunisdesign.com/template-guides/sp-revana---add-case-studies
+- Avexa — service pricing tab: https://lunisdesign.com/template-guides/sp-avexa---service-pricing-tab
+- Zova — create animated illustrations: https://lunisdesign.com/template-guides/sp-zova---create-animated-illustrations
+
+Support: https://lunisdesign.com/support
 
 ## Key pages
 
 - Homepage: https://lunisdesign.com
 - Framer templates: https://lunisdesign.com/framer-templates
 - Webflow templates: https://lunisdesign.com/webflow-templates
-- Template guides and documentation: https://lunisdesign.com/template-guides
+- Blog: https://lunisdesign.com/blogs
+- Template guides: https://lunisdesign.com/template-guides
 - Support: https://lunisdesign.com/support
 
 ## What makes Lunis Design different
 
-Handcrafted templates with a focus on visual distinctiveness — not component libraries assembled to look like every other template. Each design is built around a real use case with the pages, CMS structure, and layout decisions that type of business actually needs. Available on Framer Marketplace, Webflow Marketplace, and Contra in addition to the Lunis Design store.
+Handcrafted templates with a focus on visual distinctiveness — not component libraries assembled to look like every other template. Each design is built around a real use case with the pages, CMS structure, and layout decisions that type of business actually needs. Available on Framer Marketplace, Webflow Marketplace, and Contra in addition to the Lunis Design store. Trusted by 6,500+ founders and freelancers.

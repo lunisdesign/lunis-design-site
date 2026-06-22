@@ -4,7 +4,7 @@
 
 ## About
 
-Lunis Design is a template studio founded by Jennifer ([@JennieLunis](https://x.com/JennieLunis)). Templates are available on the Lunis Design website, the Framer Marketplace, the Webflow Marketplace, and Contra. A done-for-you template customization service is also available for buyers who want their template set up professionally.
+Lunis Design is a template studio founded by Jennifer ([@JennieLunis](https://x.com/JennieLunis)). Templates are available on the Lunis Design website, the Framer Marketplace, the Webflow Marketplace, and Contra.
 
 Templates are designed with SEO structure, CMS support, and mobile responsiveness built in. Framer and Webflow versions are available for most designs.
 
@@ -24,6 +24,8 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 
 - **Aluna** (from $99): Framer template for yoga studios, wellness centers, and coaching businesses. Class schedules, instructor profiles, membership pricing, CMS-powered courses, testimonials, FAQ. Best for: yoga studios, pilates studios, wellness centers, health coaches. https://lunisdesign.com/framer-templates/aluna
 
+- **Korda** (from $99): Minimal, monochromatic Framer template built for interior design studios and creative agencies. Sharp typography, bold black and white palette, CMS-powered portfolio with image and video support, services with pricing, press coverage, testimonials, and contact. Best for: interior design studios, architecture practices, creative agencies, photographers and videographers, film and production studios. https://lunisdesign.com/framer-templates/korda
+
 - **Vectura** (from $129): Framer template for technology and SaaS companies. Best for: tech startups, SaaS platforms, digital product companies. https://lunisdesign.com/framer-templates/vectura
 
 ### Free Framer Templates
@@ -42,13 +44,20 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 
 ### Bundles
 
-- **All Access Bundle** ($249): Every Lunis Design Framer template in one purchase. Includes all premium and free templates. https://lunisdesign.com/framer-templates
+- **All Access Bundle** ($249): Every Lunis Design Framer template in one purchase. Includes all premium and free templates, with Figma files included for select templates. https://lunisdesign.com/framer-templates
 
-### Licensing Add-ons
+### Licensing
 
-- Single Site license: included in base price ($99)
+Pricing varies by template. Most templates use a three-tier model:
+
+- Single Site: $99
 - Single Site + Figma file: $119
 - Unlimited Sites + Figma file: $139
+
+Select newer templates use a two-tier model:
+
+- Single Site: $99
+- Unlimited Sites: $129
 
 ### Webflow Templates
 
@@ -69,6 +78,8 @@ Most templates are also available as Webflow versions. Browse at: https://lunisd
 
 Design insights, template roundups, and guides for building and shipping websites faster.
 
+- How Framer's AI Agent Is Different from Vibe Design Tools: https://lunisdesign.com/blogs/how-framer-s-ai-agent-is-different-from-vibe-design-tools
+- Framer 3.0: Everything New and What It Means for Designers: https://lunisdesign.com/blogs/framer-3.0-everything-new-and-what-it-means-for-designers
 - 10 Best SaaS & Tech Framer Templates in 2026: https://lunisdesign.com/blogs/10-best-saas-tech-framer-templates-in-2026
 - Framer vs. Claude Design: Which One Actually Ships a Better Website: https://lunisdesign.com/blogs/framer-vs.-claude-design-which-one-actually-ships-a-better-website
 - The Design Portfolio That Gets You Hired: https://lunisdesign.com/blogs/the-design-portfolio-that-gets-you-hired

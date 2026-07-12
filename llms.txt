@@ -14,8 +14,6 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 
 - **Nexura** (from $99): Framer template for AI tools, SaaS products, and automation platforms. CMS-powered integrations page, product page, structured blog, pricing with comparison table, testimonials, FAQ, and contact. Best for: AI SaaS startups, developer tools, automation platforms. https://lunisdesign.com/framer-templates/nexura
 
-- **Grovia** (from $99): Framer SaaS template for startups, tech companies, and B2B service providers. Features, pricing, case studies, integrations, team, metrics, FAQ, and contact. 26,000+ views on Framer Marketplace. Best for: SaaS startups, B2B companies, consulting firms. https://lunisdesign.com/framer-templates/grovia
-
 - **Avexa** (from $99): Framer template for creative agencies and digital studios. Case studies, services and pricing, process, testimonials, FAQ, and contact. Best for: digital agencies, branding studios, web design studios, creative consultancies. https://lunisdesign.com/framer-templates/avexa
 
 - **Revana** (from $99): Framer template for interior designers, creative studios, and home service businesses. CMS-powered portfolio, services, about, testimonials, light/dark theme, custom cursors. Best for: interior designers, spatial design studios, home renovation companies, architects. https://lunisdesign.com/framer-templates/revana
@@ -29,6 +27,8 @@ Templates are designed with SEO structure, CMS support, and mobile responsivenes
 - **Vectura** (from $129): Framer template for technology and SaaS companies. Best for: tech startups, SaaS platforms, digital product companies. https://lunisdesign.com/framer-templates/vectura
 
 ### Free Framer Templates
+
+- **Grovia** (Free): Framer SaaS template for startups, tech companies, and B2B service providers. Features, pricing, case studies, integrations, team, metrics, FAQ, and contact. 26,000+ views on Framer Marketplace. Best for: SaaS startups, B2B companies, consulting firms. https://lunisdesign.com/framer-templates/grovia
 
 - **Zova** (Free): Framer SaaS template with animated style for startups and tech companies. Features, pricing, blog, integrations, team, careers, metrics, testimonials. Best for: SaaS startups, consumer tech products, B2B tech companies. https://lunisdesign.com/framer-templates/zova
 
@@ -78,6 +78,9 @@ Most templates are also available as Webflow versions. Browse at: https://lunisd
 
 Design insights, template roundups, and guides for building and shipping websites faster.
 
+- 10 Prompt Techniques to Launch Your First Website with Framer's AI Agent: https://lunisdesign.com/blogs/10-prompt-techniques
+- How to Launch Your Site Within 24 Hours Using the Framer AI Agent: https://lunisdesign.com/blogs/how-to-launch-your-site-within-24-hours
+- AI-Generated Websites vs. Human-Designed: https://lunisdesign.com/blogs/ai-generated-websites-vs.-human-designed
 - How Framer's AI Agent Is Different from Vibe Design Tools: https://lunisdesign.com/blogs/how-framer-s-ai-agent-is-different-from-vibe-design-tools
 - Framer 3.0: Everything New and What It Means for Designers: https://lunisdesign.com/blogs/framer-3.0-everything-new-and-what-it-means-for-designers
 - 10 Best SaaS & Tech Framer Templates in 2026: https://lunisdesign.com/blogs/10-best-saas-tech-framer-templates-in-2026
